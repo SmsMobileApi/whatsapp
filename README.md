@@ -32,11 +32,6 @@ https://api.smsmobileapi.com/sendsms
 GET https://api.smsmobileapi.com/sendsms?apikey=YOUR_API_KEY&waonly=yes&recipients=+1234567890&message=Hello%20World
 
 
-### Decoded Example
-```plaintext
-https://api.smsmobileapi.com/sendsms?apikey=YOUR_API_KEY&waonly=yes&recipients=+1234567890&message=Hello World
-
-
 Step-by-Step Guide
 
 1. Create an Account
