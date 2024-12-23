@@ -1,9 +1,15 @@
-# whatsapp
-Easily connect WhatsApp to SMSMobileAPI to send messages via API requests using your own number. Enjoy full control, seamless integration, and real-time message visibility in your WhatsApp app. Perfect for businesses seeking efficient communication!
-
 # WhatsApp Messaging with SMSMobileAPI
 
 Easily send WhatsApp messages via the SMSMobileAPI using simple API requests. With this integration, messages are sent directly from your WhatsApp-linked phone number, ensuring full transparency and seamless communication.
+
+---
+
+Advantages of Using SMSMobileAPI to Send WhatsApp Messages:
+
+- No need to use WhatsApp Business.
+- No need to verify your identity.
+- No requirement to use templates imposed by Meta.
+- Use your own account and number in just a few clicks.
 
 ---
 
